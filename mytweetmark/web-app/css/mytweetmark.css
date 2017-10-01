@@ -1,0 +1,115 @@
+.p_clear{clear:both;font-size:0;line-height:0;}div{font:12px Verdana,Arial,Helvetica,sans-serif;}
+.clear{height:0;line-height:0;clear:both;}
+
+.update-separator {
+height: 10px;
+font-size: 0px;
+line-height: 0px;
+border-bottom: 1px solid #FFFFFF;
+color: #FFFFFF;
+}
+
+.update-separator-grey {
+height: 10px;
+font-size: 0px;
+line-height: 0px;
+border-bottom: 1px solid #eee;
+}
+
+.update-separator-nobor {
+height: 10px;
+font-size: 0px;
+line-height: 0px;
+clear: left;
+}
+
+.secondary-action-link{font-size:11px;font-weight:normal;}img{border:none;}img.picture{border:1px solid #666;}
+.smaller-secondary-action-link{font-size:9px;font-weight:normal;}img{border:none;}img.picture{border:1px solid #666;}
+
+.scrapBody{
+overflow: hidden;
+width: 100%;
+}
+
+.topic {
+font-size:14px;
+margin-bottom: 10px;
+}
+
+.post {
+font-size:12px;
+margin-bottom: 8px;
+overflow: hidden;
+width: 100%;
+}
+
+.comment {
+font-size:10px;
+margin-bottom: 6px;
+overflow: hidden;
+width: 100%;
+}
+
+.small-comment {
+font-size:9px;
+margin-bottom: 5px;
+overflow: hidden;
+width: 100%;
+}
+
+.smaller-comment {
+font-size:8px;
+margin-bottom: 5px;
+overflow: hidden;
+width: 100%;
+}
+
+
+#scrapbookTopicText {
+font-size:16px;
+float: left; max-width: 100%; _width: this.offsetWidth + 'px');
+line-height: 1.2em;
+overflow: hidden;
+}
+
+img.profile_border {
+	border: 1px solid #c7dcfe;
+}
+
+.minitext {
+  font: normal 0.7em Arial, sans-serif;
+  color: Black;
+}
+
+.disable {
+  background-color: #CF110C;
+  color: #fff;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.shadow {
+		  -moz-box-shadow: 5px 5px 5px #ccc;
+		  -webkit-box-shadow: 5px 5px 5px #ccc;
+		  box-shadow: 5px 5px 5px #ccc;
+	}
+	
+	.innershadow {
+   -moz-box-shadow:inset 0 0 10px #000000;
+   -webkit-box-shadow:inset 0 0 10px #000000;
+   box-shadow:inset 0 0 10px #000000;
+	}
+	
+	.rounded {
+		border-radius: 15px;
+		border-top-left-radius: 15px;
+		border-top-right-radius: 15px;
+		border-bottom-right-radius: 15px;
+		border-bottom-left-radius: 15px;
+		-moz-border-radius: 15px;
+		-moz-border-radius-topleft: 15px;
+		-moz-border-radius-topright: 15px;
+		-moz-border-radius-bottomleft: 15px;
+		-moz-border-radius-bottomleft: 15px;
+	}
+	
